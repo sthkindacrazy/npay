@@ -45,6 +45,6 @@ dump.rdb
 *.sql
 *.msg
 *.iml
-
+/.keep
 # rbenv version file
 .ruby-version
