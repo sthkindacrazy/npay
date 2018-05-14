@@ -69,6 +69,8 @@ group :development do
   gem 'spring'
 end
 
+gem 'activerecord'
+gem 'activerecord-import'
 gem 'mysql2'
 gem 'jquery-ui-rails'
 gem 'kaminari'
