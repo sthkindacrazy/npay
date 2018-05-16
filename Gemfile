@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.10'
+gem 'mysql2', '~> 0.4.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -71,7 +72,6 @@ end
 
 gem 'activerecord'
 gem 'activerecord-import'
-gem 'mysql2'
 gem 'jquery-ui-rails'
 gem 'kaminari'
 gem 'rails_param'
